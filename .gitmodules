@@ -1,0 +1,6 @@
+[submodule "ripchorder-backend"]
+	path = ripchorder-backend
+	url = git@github.com:nathan-stamand/ripchorder-backend.git
+[submodule "ripchorder-frontend"]
+	path = ripchorder-frontend
+	url = git@github.com:nathan-stamand/ripchorder-frontend.git
