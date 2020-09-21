@@ -4,7 +4,7 @@ Welcome to RipChorder! This app makes it easy to hear chord progressions and mak
 
 Ruby version: ruby 2.6.1p33
 
-System dependencies: rails 6.0.3, fast_jsonAPI, rack-cors, Tone.js, jquery, Scribbletune.js
+Dependencies: rails 6.0.3, fast_jsonAPI, rack-cors, Tone.js, jquery, Scribbletune.js
 
 Database creation: type 'rails db:migrate' in ripchorder-backend terminal.
 
